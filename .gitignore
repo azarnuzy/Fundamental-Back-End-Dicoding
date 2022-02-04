@@ -1,0 +1,5 @@
+dontpush/
+dicoding-blog/
+*/node_modules/
+*/dist/
+*.zip
